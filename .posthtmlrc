@@ -7,12 +7,146 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
+        "body": [
+          {
+            "type": "text",
+            "value": "The University <a href=\"https://undergrad.admissions.columbia.edu/life\">touts its ranking </a>as the “number one college for food.” However, the current ratio of students on Columbia meal plans to available seats in dining halls is roughly nine-to-one."
+          },
+          {
+            "type": "text",
+            "value": "About 60 percent of Literature Humanities and Contemporary Civilization instructors, whom the University values as “world-class” and “<a href=\"https://undergrad.admissions.columbia.edu/life/community/students-faculty\">leaders</a> in their fields,” are not full, associate, or assistant professors."
+          },
+          {
+            "type": "text",
+            "value": "Lerner Hall, the <a href=\"https://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs19991104-01.2.5&e=-------en-20--1--txt-txIN-------\">multimillion-dollar</a> building branded as a student center, functions more as a “revenue-generating conference center.”"
+          },
+          {
+            "type": "text",
+            "value": "These findings, obtained by Spectator, were included in a presentation to the Faculty of Arts and Sciences in February by a faculty group which characterizes the University as lacking the capacity to expand in the way some administrators hope."
+          },
+          {
+            "type": "text",
+            "value": "A controversial effort spearheaded by some administrators to look into enrolling more students in Columbia College and the School of Engineering and Applied Science, the undergraduate expansion inquiry has the potential goals of increasing tuition revenue and making a Columbia education accessible to more students. A steering committee and three working groups have been assessing the potential impacts of expansion since April 2021, with each body researching separate topics and chaired by different administrators."
+          },
+          {
+            "type": "text",
+            "value": "The work amounts to the most wide-ranging study of undergraduate education and student experience at Columbia in recent memory. Its end goal is to map a path toward improvement, setting priorities about where to allocate existing resources—or, in the case of expansion, new ones."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2021/08/27/in-the-wake-of-pandemic-losses-administration-explores-undergraduate-expansion/\"><i>In the wake of pandemic losses, administration explores undergraduate expansion</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "The findings presented in February came from the working group investigating the current state of the Core and student life, which is chaired by outgoing Columbia College Dean James Valentini. Valentini sparred with Amy Hungerford, the executive vice president of Arts and Sciences, in spring 2020 over whether to require instructional faculty to teach in person during the pandemic. In September 2021, University President Lee Bollinger <a href=\"https://www.columbiaspectator.com/news/2021/09/23/valentini-to-step-down-as-dean-of-columbia-college/\">announced</a> that Valentini would be leaving his position as dean after a decade on the job. No reason for his departure was given."
+          },
+          {
+            "type": "text",
+            "value": "The full spectrum of research from the inquiry will involve more data, and the variety of findings has led leaders of the inquiry to different preliminary conclusions about the feasibility of expansion and the current state of undergraduate education. This split is indicative of a broader state of political gridlock among administrators and faculty amid an ongoing effort to <a href=\"https://www.columbiaspectator.com/news/2021/11/14/administration-again-considering-contentious-question-of-relationship-between-columbia-college-and-the-faculty-of-arts-and-sciences/\">restructure </a>and centralize power in the Arts and Sciences."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "“Increasing access to a SEAS and CC education is important to consider in a time when elite universities are asked to justify the good they do in the world,” Hungerford, who chairs the steering committee and a working group on the Arts and Sciences, wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "However, the presentation from Valentini’s working group paints a picture of a University not only lacking the capacity to expand, but also falling short of the promises it makes to current students."
+          },
+          {
+            "type": "text",
+            "value": "In the wake of an enrollment bubble in which the campus population is unusually large following large numbers of deferrals due to COVID-19, that presentation, which has not yet been made publicly available, lays bare some of the realities facing undergraduates at Columbia—particularly when it comes to the Core, access to courses, and student life. The presentation states that students in Columbia College and SEAS currently experience “significant challenges securing places in key foundational courses in a number of disciplines” and have “very few open spaces conducive for building community.” Expanding the number of students in these schools, according to the findings, could “exacerbate the difficulty of bringing Core class sizes into greater alignment with our peers and our own pedagogical values.”"
+          },
+          {
+            "type": "text",
+            "value": "There was considerable backlash from a number of faculty within Arts and Sciences from the moment the expansion inquiry began in earnest, according to half a dozen people who have been closely following its developments.  According to five people familiar with the contents of the presentation, one faculty member likened the prospect of expansion to “adding lanes to a bridge that’s already crumbling.” It’s a phrase many faculty members have latched onto in conversations about the ongoing inquiry."
+          },
+          {
+            "type": "text",
+            "value": "At the February meetings during which the findings were presented, Joseph Howley, a classics professor, presented information on the Core while Jeremy Dodd, a physics professor, spoke about course access. Cristen Kromm, the dean of undergraduate student life, gave what three people familiar with the meeting called a “candid” presentation on the quality of student life on campus."
+          },
+          {
+            "type": "text",
+            "value": "The February report uncovered major shortcomings in the realm of student life, which are backed up by the findings of Hungerford’s working group. Valentini’s group goes a step further, though, describing reservable outdoor event spaces such as Low Plaza, Butler Lawn, and South Lawn as “cost-prohibitive” for student groups, whose limited budgets often cannot afford extra charges for technology and Public Safety, among other costs."
+          },
+          {
+            "type": "text",
+            "value": "John George, CC ’23, the president of the Columbia Political Union, said finding an appropriate space on campus for his group to hold events is “really, really hard.” Renting the Roone Arledge Cinema for only a few hours translates into hundreds of dollars in charges, he said, which is expensive for student groups, many of which are only allocated a few thousand dollars per year. As a result, undergraduate student groups have come to rely heavily on hosting meetings and events in classroom spaces."
+          },
+          {
+            "type": "text",
+            "value": "“Student groups are as vital to the Columbia experience as classes and coursework, and the fact is they’re competing for space,” George said. “Just adding more students, and consequently more groups, more need for space … I don’t even know how that’s sustainable.”"
+          },
+          {
+            "type": "text",
+            "value": "Valentini’s working group also found that student performance groups are facing “tremendous pressures” from a lack of performance and rehearsal spaces. At a University Senate meeting last week, similar concerns were raised when the campus planning and physical development committee previewed some of its findings from a six-month-long investigation into space needs for performing arts programs, including the music department. The committee found an acute lack of spaces for performances, rehearsals, and storage."
+          },
+          {
+            "type": "text",
+            "value": "For example, as many as 150 students in the Barnard and Columbia undergraduate theater program must rehearse between their class sessions. However, only one classroom or studio rehearsal space is guaranteed to be available."
+          },
+          {
+            "type": "text",
+            "value": "Valentini’s working group described Lerner Hall, the student center that replaced a building about half its size in <a href=\"https://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs19991104-01.2.5&e=-------en-20--1--txt-txIN-------\">1999</a>, as “a revenue-generating conference center” instead of a “traditional student center.” The building’s renovation was a significant accomplishment for those who spent years pushing former University President Mike Sovern to invest in undergraduate education by creating more space for students, according to former dean of students for Columbia College Roger Lehecka. That group ultimately won over his successor, George Rupp. But Lehecka said that in the decades since Lerner was built, administrative offices have chipped away at the space available to students."
+          },
+          {
+            "type": "text",
+            "value": "“There is no more student activity space than there was in the older, inadequate building,” Lehecka said. “Think about how different student life would be if that whole building were for students … It would change the undergraduate experience dramatically.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Continue reading on columbiaspectator.com to learn more about the presentation’s academic findings and the administrative politics behind undergraduate expansion. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>[cut print here]</i></b>"
+          },
+          {
+            "type": "text",
+            "value": "The findings also show that students from across Columbia’s undergraduate schools often must sit on multiple waitlists for required courses every semester. In Columbia College, introductory courses in economics, political science, linguistics, chemistry, and physics are “perennially oversubscribed,” and there are “significant pressures” on computing and programming courses in SEAS."
+          },
+          {
+            "type": "text",
+            "value": "One of the main ways the University differentiates itself from its competitors is through the Core, which <a href=\"https://undergrad.admissions.columbia.edu/academics/college/core\">promises</a> “small, discussion-style seminars” where students are “challenged to engage meaningfully with friends and classmates who hold different opinions.” However, many of those classes have significantly higher enrollment caps than similar courses taught at peer institutions."
+          },
+          {
+            "type": "text",
+            "value": "According to the presentation, Harvard, Yale, and Princeton cap their comparable courses at 15 students. At Columbia, Music Humanities is capped at 25. Art Humanities, Lit Hum, Contemporary Civilization, and Frontiers of Science are all capped at 22. University Writing is capped at 14."
+          },
+          {
+            "type": "text",
+            "value": "Core classes are sometimes fully staffed just days before the semester begins, and some sections do not even have rooms after the semester has started. This semester, more than a quarter of Lit Hum and Contemporary Civilization sections are being taught in residence halls or off campus. Some faculty believe the challenges are partially due to a difference in opinion with administrators about the value of the Core, which has become controversial in recent years and which some faculty claim is not enough of a priority for central administrators."
+          },
+          {
+            "type": "text",
+            "value": "\"I'm pretty sure the upper administration has little idea why the Core is capped as low as it is,” Elaine Sisman, a music professor and the chair of Music Hum, said."
+          },
+          {
+            "type": "text",
+            "value": "Hungerford’s working group has come to its own conclusions about some of the same concerns, including space limitations, which it identified as an academic and social point of contention for faculty and students during an open faculty update meeting in November. The group put on eight faculty forums between April and November of 2021."
+          },
+          {
+            "type": "text",
+            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Bob is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
+        "date": "October 17, 2019",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1t6l9XJT9FGmft4Eq50WcOwutm7G-GHke3Z_8-TiIUVY/edit#"
       }
     }
   }
