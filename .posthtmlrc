@@ -47,7 +47,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": ""
+              "asset": "testgraphic.html"
             }
           },
           {
@@ -136,14 +136,14 @@
           },
           {
             "type": "text",
-            "value": "<i>Bob is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
           }
         ],
         "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
         "date": "October 17, 2019",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
-        "USE_NEWS_NAV": false,
-        "USE_EYE_NAV": true,
+        "USE_NEWS_NAV": true,
+        "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1t6l9XJT9FGmft4Eq50WcOwutm7G-GHke3Z_8-TiIUVY/edit#"
